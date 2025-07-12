@@ -4,3 +4,4 @@ paddlepaddle
 numpy
 Pillow
 requests
+setuptools
